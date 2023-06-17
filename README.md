@@ -1,6 +1,7 @@
 👋 Hi, I’m @aliyah-snts. 
-- I’m interested in Web Development.
-- Currently learning HTML, CSS and Javascript.
+- Interested in Web Development and AI.
+- Focused on learning Python.
+- Can code in HTML, CSS and JS.
 - Reach me on aliyahsantos96@gmail.com
 
 <!---
